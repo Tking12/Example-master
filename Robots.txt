@@ -1,3 +1,4 @@
 User-Agent: *
 Disallow:
 Disallow: /index.html
+Disallow: /img/knowledge%20sharing%20curvedv3750.png
